@@ -8,12 +8,13 @@ A list of cool Cairo projects.
 ## Cross-chain.
 
  * [starknet-attestations](https://github.com/maxgillett/starknet-attestations) - generate non-transferable attestations for specific EVM state ("badges") and link them to their Starknet account
+ * [fossil](https://github.com/OilerNetwork/fossil) - Eth L1 light node in Cairo.
  * [starknet-btc-lightclient](https://github.com/samlaf/starknet-btc-lightclient) - Bitcoin light client implemented in Cairo
- * [cairo-chain](https://github.com/liamzebedee/cairo-chain) - horizontally scalable blockchain using STARK's and partitioned memory.
 
 ## Applications.
 
  * [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) - an MNIST digit classifier built in Cairo.
+ * [cairo-chain](https://github.com/liamzebedee/cairo-chain) - horizontally scalable blockchain using STARK's and partitioned memory.
 
 ## Tooling - verifiers, provers, VM's.
 
