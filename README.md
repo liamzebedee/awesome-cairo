@@ -1,9 +1,9 @@
 awesome-cairo
 =============
 
-A list of cool Cairo projects.
+My strongly-opinionated curated list of awesome Cairo/STARK projects. 
 
-
+For more general lists - see [cairo-goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) and [awesome-starknet](https://github.com/gakonst/awesome-starknet).
 
 ## Cross-chain.
 
